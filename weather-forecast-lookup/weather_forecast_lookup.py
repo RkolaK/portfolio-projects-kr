@@ -216,7 +216,7 @@ def pretty_print(weather_data):
 
 
 def main():
-    api_key = "a446dff4c340fdf6c01fc39b34963e54"
+    api_key = "api_key"
     weather_dict = {}
 
     print("Welcome to the weather app!")
