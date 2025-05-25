@@ -41,6 +41,9 @@ Welcome to my data science portfolio! This repository contains a collection of p
 - **[Predictive Maintenance Classification](predictive-maintenance-classification)**  
   Trains a Random Forest model to classify potential equipment failures based on sensor data.
 
+- **[IMDb Rating Prediction](imdb-rating-prediction)**  
+  Builds regression models to predict IMDb scores based on movie features, genres, and votes.
+  
 ## Technologies
 - Python (pandas, matplotlib, seaborn, scikit-learn, requests, BeautifulSoup)
 - R (ggplot2, base plotting, dplyr)
