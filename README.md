@@ -1,7 +1,7 @@
 
 # Data Science Portfolio – Kleber R.
 
-Welcome to my data science portfolio! This repository contains a collection of projects completed as part of my Master's program. Each project demonstrates a key concept in data science such as data cleaning, exploratory analysis, visualization, machine learning, or real-world problem solving.
+Welcome to my data science portfolio! This repository contains a collection of projects completed over the past years. Each project demonstrates a key concept in data science such as data cleaning, exploratory analysis, visualization, machine learning, or real-world problem solving.
 
 ## Projects Included
 
